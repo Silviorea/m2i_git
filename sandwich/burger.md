@@ -1,11 +1,6 @@
 pain
-
 steack
-
 fromage
-
 salade
-
-tomate
-
+tomates
 ![hamb](hamb.png)
